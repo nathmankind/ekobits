@@ -1,1 +1,0 @@
-# Ekobits-and-Tunga-Training
