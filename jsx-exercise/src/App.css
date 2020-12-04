@@ -1,0 +1,27 @@
+.App {
+  margin: auto;
+  padding: 0 12px;
+}
+.o-tweet__container {
+  padding: 0 12px;
+  /* width: 60%; */
+}
+.o-tweet__wrapper {
+  border: 1px solid grey;
+  padding: 0 8px;
+  border-radius: 5px;
+  margin-bottom: 22px;
+}
+.o-person__container {
+  padding: 0 12px;
+  /* width: 60%; */
+}
+.o-person__wrapper {
+  padding: 12px;
+  background: #000e8045;
+  border-radius: 5px;
+  margin-bottom: 22px;
+}
+.o-person__wrapper > h3:last-child {
+  margin-bottom: 6px;
+}
